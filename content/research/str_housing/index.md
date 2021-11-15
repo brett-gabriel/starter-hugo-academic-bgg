@@ -39,6 +39,10 @@ The supply of housing for short-term rental (STR) has grown dramatically with th
 
 with [Keaton Miller](http://www.keatonmiller.org/) and [John Morehouse](https://www.johnmmorehouse.com/) 
 
+Revise and Resubmit: *Regional Science and Urban Economics*
+
 [CGO working paper](https://www.thecgo.org/research/in-search-of-peace-and-quiet-the-heterogeneous-impacts-of-short-term-rentals-on-housing-prices/)
+
+{{% staticref "files/str_housing.pdf" "newtab" %}}Link to paper
 
 {{< figure src="/img/str_het.png" title="" >}}
