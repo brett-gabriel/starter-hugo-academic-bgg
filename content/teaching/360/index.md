@@ -39,6 +39,10 @@ weight: 20
 
 * Spring 2019, Winter 2020, Spring 2020 (online), Fall 2020 (online)
 
+* {{% staticref "files/360_syllabus.pdf" "newtab" %}}Syllabus
+
+* [Lecture slides](https://github.com/brettgabriel89/360/)
+
 This course is designed to provide you with an introduction to industrial organization and its role in antitrust law. The relationship between industry structure and overall performance is examined, as well as the idea of what is desirable in market outcomes and how to improve flawed market outcomes. The first half of the class focuses on basic monopoly and antitrust, while the second half discusses more complex market structures. Throughout the course, we will tie theory to real, relevant court cases in the United States. The class will be approximately equal parts math, graphing, discussing laws, and discussing court cases.
 
 Student comments:
