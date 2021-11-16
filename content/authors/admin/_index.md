@@ -71,4 +71,4 @@ email: ""
 highlight_name: true
 ---
 
-I am an economist and applied econometrician, interested in applying the techniques of industrial organization, causal inference, and data science to business objectives. My academic research focuses on issues related to market power, regulation, and transportation.
+I am an economist and applied econometrician, interested in applying the techniques of industrial organization, causal inference, and data science to business objectives. My research focuses on issues related to market power, regulation, and transportation.
